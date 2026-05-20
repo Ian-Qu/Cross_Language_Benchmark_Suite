@@ -1,0 +1,17 @@
+language,task,median_ms,mean_ms,std_ms,speedup_vs_python
+Python,parse_only,1654.282,1668.328,37.656,1.0
+C,parse_only,395.227,393.969,6.994,4.186
+Rust,parse_only,1029.774,1029.121,33.043,1.606
+Java,parse_only,659.052,662.001,9.964,2.51
+Python,summary,1906.426,1919.592,39.164,1.0
+C,summary,468.849,471.093,5.27,4.066
+Rust,summary,1041.276,1033.912,26.045,1.831
+Java,summary,696.646,703.139,18.29,2.737
+Python,analytics,2122.762,2165.878,87.927,1.0
+C,analytics,412.019,415.163,15.376,5.152
+Rust,analytics,1056.124,1064.33,30.212,2.01
+Java,analytics,748.52,752.626,25.819,2.836
+Python,top_movers,1934.616,1952.731,71.444,1.0
+C,top_movers,399.093,404.873,12.967,4.848
+Rust,top_movers,1076.491,1085.768,24.796,1.797
+Java,top_movers,772.225,766.46,13.711,2.505

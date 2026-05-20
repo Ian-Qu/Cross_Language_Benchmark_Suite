@@ -1,0 +1,1 @@
+C:\Users\iannq\Local\ Documents\Personal\ Coding\ Projects\Cross_Language_Benchmark_Suite\rust\target\release\stock_language_benchmark.exe: C:\Users\iannq\Local\ Documents\Personal\ Coding\ Projects\Cross_Language_Benchmark_Suite\rust\src\main.rs
