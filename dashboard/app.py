@@ -11,7 +11,7 @@ LANGUAGE_COLORS = alt.Scale(
     range=["#4cf27e", "#2f80ed", "#f2994a", "#eb5757"]
 )
 
-st.set_page_config(page_title='Language Benchmark Dashboard', layout='wide')
+st.set_page_config(page_title='Cross Language Benchmark Dashboard', layout='wide')
 st.title('Language Benchmark Dashboard')
 st.caption('Interactive dashboard for comparing C, Java, Python, and Rust on stock CSV analytics workloads.')
 
