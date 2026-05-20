@@ -6,7 +6,7 @@ A cross-language benchmark project that compares CSV-based stock analytics workl
 The goal of this project is to measure how four language implementations perform on the same stock-price CSV workloads and to compare their runtime behavior with consistent benchmark tasks. The project records repeated runs, summarizes the results, and presents the findings in a dashboard so the tradeoffs are easy to inspect.
 
 ## Live dashboard
-View the deployed dashboard here: [Streamlit](https://crosslanguagebenchmarksuite.streamlit.app/).
+View the deployed dashboard here: https://crosslanguagebenchmarksuite.streamlit.app/.
 
 ## Dataset
 Place `World-Stock-Prices-Dataset.csv` in `data/raw/`.
